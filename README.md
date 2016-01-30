@@ -34,4 +34,4 @@
 
 ### 16) The data frame has 180 observations and 68 columns.
 
-### 17) Usine write.table to create the tidy_data.txt file for the project purpose.
+### 17) Using write.table to create the tidy_data.txt file for the project purpose.
